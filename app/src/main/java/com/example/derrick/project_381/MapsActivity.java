@@ -1,5 +1,16 @@
 package com.example.derrick.project_381;
 
+/* Name: Derrick Johnstone
+   NSID: daj113
+   ST#   10920110
+   and
+   Name: Shea Meyers
+   NSID: ssm904
+   ST#   11051608
+   CMPT 381
+   Project_381
+ */
+
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
